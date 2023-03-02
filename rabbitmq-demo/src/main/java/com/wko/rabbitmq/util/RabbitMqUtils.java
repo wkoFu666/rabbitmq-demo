@@ -14,7 +14,7 @@ import com.rabbitmq.client.ConnectionFactory;
  * @Version 1.0
  */
 public class RabbitMqUtils {
-    public static final String IP = "124.71.214.111";
+    public static final String IP = "";
     public static final String USER = "admin";
     public static final String PASSWORD = "admin";
 

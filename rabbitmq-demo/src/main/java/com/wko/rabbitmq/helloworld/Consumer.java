@@ -16,7 +16,7 @@ public class Consumer {
 
     public static final String QUEUE_NAME = "mirror_hello";
 
-    public static final String IP = "124.71.214.111";
+    public static final String IP = "";
     public static final String USER = "admin";
     public static final String PASSWORD = "admin";
 
